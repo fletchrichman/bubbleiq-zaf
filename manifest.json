@@ -1,0 +1,18 @@
+{
+  "name": "BubbleIQ",
+  "author": {
+    "name": "BubbleIQ",
+    "email": "support@bubbleiq.com",
+    "url": "https://www.bubbleiq.com/"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "location": {
+    "support": {
+    }
+  },
+  "marketingOnly": true,
+  "version": "2.0",
+  "termsConditionsURL": "https://www.bubbleiq.com/termsofservice",
+  "gaID": "ua-98327463-1"
+}

@@ -1,0 +1,23 @@
+{
+  "app": {
+    "short_description": "Seamlessly integrate Zendesk tickets with Slack",
+    "name": "BubbleIQ",
+    "long_description": "### Slack + Zendesk = <3\n\n---\n\nBubbleIQ allows you to seamlessly integrate Zendesk tickets with Slack, enabling customer support to supercharge their workflows between their two favorite tools.\n\n### Engage Coworkers and Customers via Slack\n\nBubbleIQ allows customer success teams to better engage both coworkers and customers by allowing them to see and respond to relevant tickets from within Slack.\n\nBubbles are synced with Zendesk tickets through a thread in Slack. Messages in the thread automatically create responses to the Zendesk ticket, allowing coworkers or customers to respond in a familiar chat-based environment while keeping everything organized.\n\nAgent responses from Zendesk are automatically posted into a thread on the corresponding Bubble in Slack. Agents can also assign, tag, prioritize, and respond to the ticket inside Slack.\n\nThe end result is a better chat-based experience for coworkers or customers by providing full visibility into tickets and making it easy to respond in the environment they are already in.\n\nSome of the great use cases we've seen for BubbleIQ so far include:\n* Posting tickets with a specific tag to a Slack channel to allow engineers, product managers, and other coworkers to see and respond to them.\n* Providing chat based support for high touch customers in private channels and creating synced tickets for important messages to make sure every issue is resolved.\n* Managing internal IT requests that are synced to a Zendesk.\n\nBubbleIQ has a free 7 day trial to test out the functionality before you buy. Install it on Slack and Zendesk today. ",
+    "installation_instructions": "### Getting Started with BubbleIQ\n\nInstallation is simple:\n* Install the Slack App at [BubbleIQ.com](https://www.bubbleiq.com)\n* Oauth your Zendesk account as a part of the Slack app installation\n* Install the Zendesk App here to start your 7 day trial\n* Follow the instructions from the BubbleIQ Slack Bot to add it to Slack channels and start syncing tickets! "
+  },
+
+  "hello": "Hello {{name}}!",
+
+  "sub": "Ticket updates will be synced with BubbleIQ upon ticket save.  Happy Supporting!",
+
+  "save": {
+    "button": "Bookmark ticket #{{id}}",
+    "success": "Bookmarked ticket #{{id}}",
+    "error": "Sorry, something went wrong."
+  },
+
+  "learn_more": {
+    "message": "To learn more, {{link}}",
+    "link_text": "see the Zendesk forums"
+  }
+}
